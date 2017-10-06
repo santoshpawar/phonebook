@@ -13,6 +13,7 @@
 			<router-view></router-view>
 			
 		</div> 
+		
 		<Myfooter>	</Myfooter>
 
 	</div>
